@@ -10,8 +10,8 @@ Most of my daily work happens within the React and TypeScript ecosystem, heavily
 
 *   **Engredo Hub**: A modular operations and logistics system built from scratch in a Next.js monorepo. It leverages tRPC, Zod, and Prisma to ensure strict type-safety across the entire stack. *(Private repository)*
 *   **[Rank Tracker](#)**: A frontend data-visualization tool integrated with the Google Search Console API to monitor SEO performance over time.
-*   **[Verto](#)**: *(Add a 5-10 word description here).*
-*   **[Goldilox Paradox](#)**: *(Add a 5-10 word description here).*
+*   **[Verto](#)**: A flashcards app for focused, keyboard-first study sessions.
+*   **[Goldilox Paradox](#)**: Single-page WebGL scrollytelling through Earth, Venus, and Mars.
 *   **[Portfolio](https://andreasbusk.dk)**: My personal site and playground for testing new web patterns, built with Next.js and Tailwind CSS.
 
 ### My Stack
